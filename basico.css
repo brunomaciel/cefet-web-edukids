@@ -114,22 +114,6 @@ body {
   cursor: pointer;
 }
 
-.comecar,
-.parar {
-  height: 1em;
-  width: 1em;
-  display: inline-block;
-  vertical-align: middle;
-}
-
-.comecar {
-  background-image: url('imgs/icone-comecar.png');
-}
-
-.parar {
-  background-image: url('imgs/icone-parar.png');
-}
-
 /* -----------------------------------------
  * Região do conteúdo
  */
